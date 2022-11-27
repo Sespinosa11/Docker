@@ -31,7 +31,5 @@ Ejecute el archivo docker-compose up, que usa el archivo docker-compose.yaml par
 #### Después de probar la aplicación local, ejecute docker-compose down para detener la aplicación y quitar los contenedores.
 > ![Imagen creacion](https://github.com/Sespinosa11/Docker/blob/main/images/12.png)
 ### Inserción de imágenes en Container Registry
-> ![Imagen creacion](https://github.com/Sespinosa11/Docker/blob/main/images/13.png)
-
-
-
+> ![Imagen creacion](https://github.com/Sespinosa11/Docker/blob/main/images/13.jpg)
+Desde este momento no se puede seguir debido al error http 403 que dice que docker recibe el mensaje pero no recibe los contenedores
