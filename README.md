@@ -1,4 +1,4 @@
-# Docker Proyecto final Ingenieria Web
+# Docker Examen final Ingenieria Web
 ## Documentacion
 ### Login cuenta de Azure
 > ![Imagen login](https://github.com/Sespinosa11/Docker/blob/main/images/1.png)
@@ -29,8 +29,9 @@ Ejecute el archivo docker-compose up, que usa el archivo docker-compose.yaml par
 #### Para ver la aplicación en ejecución, escriba http://localhost:80 en un explorador web local. Se carga la aplicación de ejemplo, como se muestra en el ejemplo siguiente:
 > ![Imagen localhost](https://github.com/Sespinosa11/Docker/blob/main/images/11.PNG)
 #### Después de probar la aplicación local, ejecute docker-compose down para detener la aplicación y quitar los contenedores.
-### Inserción de imágenes en Container Registry
 > ![Imagen creacion](https://github.com/Sespinosa11/Docker/blob/main/images/12.png)
-  
+### Inserción de imágenes en Container Registry
+> ![Imagen creacion](https://github.com/Sespinosa11/Docker/blob/main/images/13.png)
+
 
 
